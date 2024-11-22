@@ -1,6 +1,6 @@
 # AI/ML Engineer
 
-#### Technical Skills: Python, SQL, NLP, RAG, Gen AI, Power-BIPytorch, Scikit-learn, TensorFlow, Transformers, Fine-Tuning
+#### Technical Skills: Python, SQL, NLP, RAG, Gen AI, Power-BIPytorch, Scikit-learn, TensorFlow, Transformers, Fine-Tuning, Langcahin
 
 ## Education				       		
 - M.S., Engineering Management	| Capital University of Science and Technology (_December 2023_)	 			        		
