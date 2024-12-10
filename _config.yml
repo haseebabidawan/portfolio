@@ -1,5 +1,39 @@
+# Site settings
 title: Muhammad Haseeb Abid Awan
+description: Passionate AI Engineer | Data Scientist
 logo: images/profile-pic (7).png
-#description: text below image
+
+# Theme settings
+theme: jekyll-theme-cayman
 show_downloads: true
-theme:  jekyll-theme-cayman
+
+# Social links
+github_username: haseebabidawan # Add your GitHub username for linking to your profile
+linkedin_username: Muhammad Haseeb Abid Awan # Add your LinkedIn username for a professional profile link
+
+# Navigation links (sidebar links or navbar depending on theme)
+nav_links:
+  - name: Home
+    url: /
+  - name: Portfolio
+    url: /portfolio/
+  - name: Blog
+    url: /blog/
+  - name: About Me
+    url: /about/
+  - name: Contact
+    url: /contact/
+
+# Additional configurations
+show_footer: true
+footer_text: "© 2024 Muhammad Haseeb Abid Awan | All Rights Reserved"
+social_icons: true # Add social icons for GitHub, LinkedIn, etc.
+
+# Plugin configuration (optional for features)
+plugins:
+  - jekyll-seo-tag # Improve SEO performance
+  - jekyll-sitemap # Generate sitemap for search engines
+  - jekyll-feed # Add RSS feed for your blog
+
+# Favicon
+favicon: https://cdn-icons-png.flaticon.com/512/7867/7867852.png # Replace with your favicon image
