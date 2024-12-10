@@ -32,6 +32,18 @@
 
 ## Projects  
 
+### Medical Diagnosis Chatbot using Multi-modal LLM  
+**Project Overview:**  
+Developed an AI-powered medical image analysis chatbot that leverages multi-modal LLMs to analyze medical images and generate detailed reports, including an option to simplify complex medical diagnoses into easy-to-understand language.  
+
+**Technical Details:**  
+- Utilized **Google GEMINI** and **GROQ** LLMs for generating detailed medical analysis reports.  
+- Incorporated **Streamlit** for building an interactive and user-friendly web interface.  
+- Integrated multi-modal capabilities to process and analyze medical images, such as X-rays and CT scans, alongside natural language prompts.  
+- Implemented an **ELI5** (Explain Like I’m 5) feature to simplify medical explanations for non-medical users.  
+- Used **Google GEMINI**'s advanced language model for generating comprehensive medical diagnosis and **GROQ**'s conversational AI for simplifying technical content.
+- Streamlined workflow with **temporary file handling** for image uploads, processing, and result display.
+
 ### LLM Chatbots Development  
 **Project Overview:**  
 Developed and deployed conversational AI chatbots using LLMs with Hugging Face Transformers, Groq, and OLLAMA for local deployment.  
