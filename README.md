@@ -6,9 +6,9 @@
 - M.S., Engineering Management	| Capital University of Science and Technology (_December 2023_)	 			        		
 - B.S., Electrical Engineering | Capital University of Science and Technology (_December 2018_)
   
-## ------------------------------------------------------------------------------
+
 ## Work Experience  
-## ------------------------------------------------------------------------------
+
 ### Centre of Advanced Research in Engineering  
 **AI/ML Engineer (_Jul 2023 - Present_)**  
 - Directed the development and deployment of Generative AI LLM chatbots utilizing Hugging Face, Groq, and OLLAMA.  
