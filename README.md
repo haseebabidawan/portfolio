@@ -66,7 +66,20 @@ Developed predictive models using Transformer architecture, NBEATS, and TFT for 
 
 **Technical Details:**  
 - Conducted comprehensive data preprocessing, including normalization and feature engineering.  
-- Applied Optuna for hyperparameter tuning and used cross-validation techniques for model evaluation.  
+- Applied Optuna for hyperparameter tuning and used cross-validation techniques for model evaluation.
+
+### Stock Market Analyst AI-Agent
+
+**Project Overview:**
+Developed a Stock Market Analyst AI-Agent utilizing Groq and Phidata, integrating multiple AI agents to provide real-time stock information, analyst recommendations, and market trends. The application uses web search tools, financial data APIs, and advanced AI models to generate detailed reports and insights.
+
+**Technical Details:**
+- **Web Search Agent:** Leverages DuckDuckGo to search the web for up-to-date stock information.
+- **Finance Agent:** Uses Yahoo Finance APIs to retrieve stock data such as prices, analyst recommendations, and fundamentals.
+- **Multi-Agent System:** Combines the web search and finance agents to deliver comprehensive analysis of stock queries.
+- **User Interface:** Built with Streamlit, providing an interactive and easy-to-use interface for querying stock information and viewing detailed reports.
+- **Model and API Integration:** Groq is used for AI model processing, while Yahoo Finance and DuckDuckGo APIs are integrated for real-time data retrieval.
+
 
 ## Certifications  
 
